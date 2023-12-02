@@ -5,8 +5,8 @@
 
 <img align="right" alt="Code Girl image" src="./dev_focus.png"  width="300px"/>
 
-(React JS | Angular | Javascript | HTML | CSS | Typescript | Java | Spring Boot | Python ) 🚀
+(ReactJs | Python | Javascript | AngularJs | Java | HTML | CSS | Typescript ) 🚀
 
--> Full Stack Software Developer 
+-> Full Stack Software Developer
 -> Computer Science Student @ [USJT](https://www.usjt.br/)
--> Passionate about technology and AI
+-> Passionate about development, AI and tech security
