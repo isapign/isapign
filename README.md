@@ -6,6 +6,8 @@
 
 <img align="right" alt="bonfire" src="./bonfire.gif"  width="400px"/>
 
+I'm 21y old and I've been working as a software developer for 4 years. I'm passionate about game development.
+
 (ReactJs | Python | Javascript | C# | Unity | Typescript | Java )
 
 -  Full Stack Software Developer
