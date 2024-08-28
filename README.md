@@ -6,11 +6,11 @@
 
 <img align="right" alt="bonfire" src="./bonfire.gif"  width="400px"/>
 
-I'm 21y old and I've been working as a software developer for 4 years. I'm passionate about game development.
+I'm 22y old and I've been working as a software developer for 4 years. I'm passionate about development in general.
 
-(ReactJs | Python | Javascript | C# | Unity | Typescript | Java )
+(ReactJs | Python | NodeJs | C# | Unity | Typescript | Java )
 
 -  Full Stack Software Developer
 -  Game Developer
--  Computer Science Student @ [USJT](https://www.usjt.br/)
+-  Technology student @[USJT](https://www.usjt.br/)
 -  Passionate about programming, tech security and games
